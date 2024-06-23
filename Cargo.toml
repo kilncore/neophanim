@@ -6,6 +6,9 @@ readme = "README.md"
 
 [dependencies]
 
+[dev-dependencies]
+rug = "1.22.0" # for constants testing
+
 [lib]
 name = "neophanim"
 path = "src/lib.rs"
