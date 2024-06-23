@@ -1,0 +1,11 @@
+[package]
+name = "neophanim"
+version = "0.1.0"
+edition = "2021"
+readme = "README.md"
+
+[dependencies]
+
+[lib]
+name = "neophanim"
+path = "src/lib.rs"
